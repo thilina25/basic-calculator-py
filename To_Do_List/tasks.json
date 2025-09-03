@@ -1,0 +1,31 @@
+[
+    {
+        "task": "Push ToDoList to GitHub",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-08-20",
+        "category": "General",
+        "new_category": "Study"
+    },
+    {
+        "task": "Complete python full todo list",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-08-20",
+        "category": "Study"
+    },
+    {
+        "task": "Complet to do list",
+        "completed": true,
+        "priority": "high",
+        "due_date": "2025-09-01",
+        "category": "Study"
+    },
+    {
+        "task": "Build UI For todo list",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-09-05",
+        "category": "Study"
+    }
+]
